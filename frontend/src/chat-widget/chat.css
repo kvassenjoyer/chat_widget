@@ -99,13 +99,13 @@
 
 .agent-name {
   font-weight: bold;
-  font-size: 1.15rem;
+  font-size: 1.25rem;
 }
 
 .agent-status {
   min-height: 1em;
 
-  font-size: 0.8rem;
+  font-size: 1.0rem;
   font-style: inherit;
   font-weight: bold;
 
@@ -166,7 +166,7 @@
   overflow-y: auto;
   overflow-x: hidden;
 
-  font-size: 0.9rem;
+  font-size: 1.0rem;
   line-height: 1.4;
 
   background-color: rgba(255, 255, 255, 1);
@@ -209,7 +209,7 @@
 
   border-radius: 0.75rem;
 
-  font-size: 0.9rem;
+  font-size: 1.0rem;
   
   word-break: break-word;
   overflow-wrap: break-word;
@@ -312,7 +312,7 @@
 
   border-radius: 1.25rem;
 
-  font-size: 0.85rem;
+  font-size: 1.0rem;
 
   border: none;
   cursor: pointer;
